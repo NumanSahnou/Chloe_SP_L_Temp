@@ -184,7 +184,7 @@ _Follow this link for further information https://cloud.google.com/bigquery/docs
    ```
 6. Create the table in your dataset to load the submission form with the proper table json schema of your submission
 
-    ⚠️ __In order for the fields (questions from your survey) to be accepted as a field name, it is recommended to reformat to follow the syntax rules for field names in BigQuery. Field names in lower case, no number as a first character, cannot contain spaces or special characters such as "?", "/", "'", "é", "à", "%" etc.__ 
+    ⚠️ _In order for the fields (questions from your survey) to be accepted as a field name, it is recommended to reformat to follow the syntax rules for field names in BigQuery. Field names in lower case, no number as a first character, cannot contain spaces or special characters such as "?", "/", "'", "é", "à", "%" etc._ 
 
     ___Example___: The question `6. Have you formalized and/or implemented an inclusion and/or non-discrimination policy?` in your survey should be reformatted to comply with Google Cloud Platform (GCP) naming conventions when you export your submission form as follows `have_formalized_and_or_implemented_inclusion_non_discrimination_policy`
 
@@ -728,7 +728,7 @@ Distributed under the GNU AGPLv3 License. See `LICENSE.txt` for more information
 
 * Mathilde Asseman - [@MathildeAsseman](https://github.com/NumanSahnou) - mathilde.asseman@chloe.com
 * Numan Sahnou - [@NumanSahnou](https://github.com/NumanSahnou) - numan.sahnou@chloe.com
-* Adin Hrelja - [@NumanSahnou](https://github.com/NumanSahnou) - adin.hrelja@chloe.com
+* Adin Hrelja - [@AdinHrelja](https://github.com/AdinHrelja) - adin.hrelja@chloe.com
 
 Project Link: [https://github.com/NumanSahnou/Chloe_SP_L_Temp/](https://github.com/NumanSahnou/Chloe_SP_L_Temp/)
 
