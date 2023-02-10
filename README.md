@@ -42,7 +42,7 @@
     <a href="https://github.com/NumanSahnou/Chloe_SP_L_Temp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://lookerstudio.google.com/reporting/09163a47-6eed-4621-b15b-e53ecf9a4d2f/page/p_jdgn2b7auc">View Demo</a>
+    <a href="https://lookerstudio.google.com/u/0/reporting/054e19cc-7ae2-48d4-b1ee-fe6ed73e6a7b/page/p_jdgn2b7auc">View Demo</a>
     ·
     <a href="https://github.com/NumanSahnou/Chloe_SP_L_Temp/issues">Report Bug</a>
     ·
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![SP&L Screenshot][product-screenshot]](https://lookerstudio.google.com/reporting/09163a47-6eed-4621-b15b-e53ecf9a4d2f/page/p_jdgn2b7auc)
+[![SP&L Screenshot][product-screenshot]](https://lookerstudio.google.com/u/0/reporting/054e19cc-7ae2-48d4-b1ee-fe6ed73e6a7b/page/p_jdgn2b7auc)
 
 </div>
 
@@ -639,6 +639,10 @@ Organization or product site dashboard – _anonymized example_
 
 Product dashboard – _anonymized example_
 </div>
+
+___ℹ️ You can develop your own scoring dashboard based on the template [Dashboard Looker](https://lookerstudio.google.com/u/0/reporting/054e19cc-7ae2-48d4-b1ee-fe6ed73e6a7b/page/p_jdgn2b7auc). You can simply `create a copy` of the dashboard and connect it to your aggregated result table.___
+
+_⚠️ Don't forget to refer to the official documentation of Looker if you want more technical information on how to connect the dashboard to your BigQuery Table [Quick start with Looker Studio](https://cloud.google.com/bigquery/docs/bi-engine-looker-studio?hl=fr)._
 
 <!-- USAGE EXAMPLES -->
 ## Usage
